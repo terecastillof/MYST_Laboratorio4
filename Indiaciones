@@ -1,0 +1,12 @@
+Pasos a seguir para Laboratorio 4
+
+- Leer y limpiar datos
+  * Poner las fechas en date/time formato
+  * Tipos de columnas
+  * GMT 0
+  
+- Clasificacion de resultados
+  * A Actual >= Consensus >= Previous
+  * B Actual >= Consensus < Previous
+  * C Actual < Consensus >= Previous
+  * D Actual < Consensus < Previous
